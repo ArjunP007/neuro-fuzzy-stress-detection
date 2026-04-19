@@ -1,0 +1,21 @@
+# python cache files
+__pycache__/
+*.pyc
+
+# logs
+logs/
+
+# IDE files
+.continue/
+.vscode/
+.idea/
+
+# experimental outputs
+artifacts/pipeline_runs/
+artifacts/test_experiments/
+artifacts/test_main_run/
+artifacts/test_plots/
+
+# OS files
+.DS_Store
+Thumbs.db

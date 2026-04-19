@@ -1,0 +1,15 @@
+{
+    "accuracy": 0.89,
+    "dataset_size": 4000,
+    "base_feature_count": 9,
+    "engineered_feature_count": 14,
+    "class_labels": [
+        "Low",
+        "Medium",
+        "High"
+    ],
+    "model_path": "artifacts\\model.pkl",
+    "preprocessor_path": "artifacts\\preprocessor.pkl",
+    "feature_engineer_path": "artifacts\\feature_engineer.pkl",
+    "confusion_matrix_path": "artifacts\\confusion_matrix.png"
+}
